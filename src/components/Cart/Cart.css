@@ -1,0 +1,15 @@
+.summary-items {
+    margin-left: 75px;
+    padding: 10px;
+}
+
+.total {
+    color: #b12704;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.order {
+    font-size: 17px;
+    margin-left: 22px;
+}

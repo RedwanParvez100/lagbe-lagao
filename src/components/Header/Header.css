@@ -1,5 +1,10 @@
 .header img {
-    height: 80px;
+    height: 160px;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    border: 0 !important;
+    outline: 0 !important;
+    border-radius: 5px;
 }
 
 .header {
