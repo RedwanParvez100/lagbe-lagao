@@ -1,4 +1,4 @@
-LagbeLagao – A playful name meaning "Get What You Need."
+#LagbeLagao – A playful name meaning "Get What You Need."
 
 # Getting Started with Create React App
 
