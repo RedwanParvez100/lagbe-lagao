@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lagbe-lagao/static/css/main.f858e88e.css",
+    "main.js": "/lagbe-lagao/static/js/main.e4678887.js",
+    "static/js/488.fa393a32.chunk.js": "/lagbe-lagao/static/js/488.fa393a32.chunk.js",
+    "static/media/LOGO.jpg": "/lagbe-lagao/static/media/LOGO.0e80a3065bb994cb121f.jpg",
+    "index.html": "/lagbe-lagao/index.html",
+    "main.f858e88e.css.map": "/lagbe-lagao/static/css/main.f858e88e.css.map",
+    "main.e4678887.js.map": "/lagbe-lagao/static/js/main.e4678887.js.map",
+    "488.fa393a32.chunk.js.map": "/lagbe-lagao/static/js/488.fa393a32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f858e88e.css",
+    "static/js/main.e4678887.js"
+  ]
+}
